@@ -50,7 +50,7 @@ platform
       module: [
         'connect-platform/platform/bind/panel',
         'connect-platform/platform/bind/utils',
-        'panel-generated',
+        'connect-platform/test-app/panel-generated',
         '.',
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "name": "connect-platform-package-boilerplate",
-  "version": "1.0.0",
+  "name": "binding-exp",
+  "version": "0.0.1",
   "description": "the boilerplate project for CONNECT platform packages.",
   "main": ".",
   "scripts": {
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loreanvictor/connect-platform-package-boilerplate.git"
+    "url": "git+https://github.com/koohyar/binding-exp.git"
   },
-  "author": "Eugene Ghanizadeh Khoub <ghanizadeh.eugene@gmail.com>",
+  "author": "Koohyar Hadjisalimi <koohyar.hadjisalimi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/loreanvictor/connect-platform-package-boilerplate/issues"
+    "url": "https://github.com/koohyar/binding-exp/issues"
   },
-  "homepage": "https://github.com/loreanvictor/connect-platform-package-boilerplate#readme",
+  "homepage": "https://github.com/koohyar/binding-exp#readme",
   "peerDependencies": {
-    "connect-platform": "*"
+    "connect-platform": "^0.3.9"
   },
   "devDependencies": {
-    "connect-platform": "^0.3.9",
+    "connect-platform": "*",
     "nodemon": "^1.18.4"
   }
 }
